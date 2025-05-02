@@ -21,12 +21,16 @@ Optimize hospital resource allocation and improve patient care efficiency.
 
 🔹Admit vs Discharge: Nearly 4,612 patients were admitted, while the remaining 4,604 were treated and released.
 
-🔹Impact: Provides data-driven recommendations for staffing, resource management, and patient experience improvement.
+🔹Impact: Provide data-driven recommendations for staffing, resource management, and improvement of patient experience.
 
-🔗 DASHBOARD
+## DASHBOARD
+![Screenshot -1](https://github.com/user-attachments/assets/2b4dedf5-ce42-42b5-b74d-02ee0e7dd4dd)
 
+![Screenshot -2](https://github.com/user-attachments/assets/84bf5929-9729-4f4f-88a6-3f340ceb8854)
 
+![Screenshot -3](https://github.com/user-attachments/assets/78346883-27ac-4862-a9b0-8944938db63c)
 
+![Screenshot -4](https://github.com/user-attachments/assets/9b092052-6c70-40b3-a0fa-842a6ec57943)
 
 
 
