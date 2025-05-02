@@ -28,9 +28,9 @@ Optimize hospital resource allocation and improve patient care efficiency.
 
 ![Screenshot -2](https://github.com/user-attachments/assets/84bf5929-9729-4f4f-88a6-3f340ceb8854)
 
-![Screenshot -3](https://github.com/user-attachments/assets/78346883-27ac-4862-a9b0-8944938db63c)
+![Screenshot -3](https://github.com/user-attachments/assets/1a126345-967f-41b4-ae06-bf3edaf6e80f)
 
-![Screenshot -4](https://github.com/user-attachments/assets/9b092052-6c70-40b3-a0fa-842a6ec57943)
+![Screenshot -4](https://github.com/user-attachments/assets/e8846c80-6654-4b81-90c7-f4c8477f2007)
 
 
 
