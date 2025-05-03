@@ -1,9 +1,7 @@
-# Hospital Emergency Room Dashboard
+# Hospital Emergency Room
 ## Project Overview:
 
 This Power BI emergency room dashboard analyzes 9,216 unique patient records over 19 months to identify key trends in wait time, referrals, peak hours, patient demographics, and admission patterns.
-
-## Live Dashboard -
 
  🎯Objective: 
 
