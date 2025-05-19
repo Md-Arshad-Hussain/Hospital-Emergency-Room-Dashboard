@@ -3,7 +3,8 @@
 
 This Power BI emergency room dashboard analyzes 9,216 unique patient records over 19 months to identify key trends in wait time, referrals, peak hours, patient demographics, and admission patterns.
 
-Live Dashboard :https://app.powerbi.com/view?r=eyJrIjoiY2M3YmUyMDQtMTNmYS00ZTViLTk3YmUtYWZjZjZhNGMyNWQ4IiwidCI6ImYzMTE2NzdmLWYyZDUtNDMwMC04OTRhLTA1ODQ0M2U3YmI3ZSJ9
+Live Dashboard:https: https://lnkd.in/gZFMCvej
+
 
  🎯Objective: 
 
